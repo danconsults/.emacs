@@ -1,0 +1,57 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "dev/")
+ ("/Users/dev/Sites/" . "newsite/")
+ ("/Applications/Adobe Acrobat XI Pro/" . "Acrobat Distiller.app/")
+ ("/Applications/" . "Adobe Acrobat XI Pro/")
+ ("/" . "Users/")
+ ("/Users/dev/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/dev/.emacs.d/"
+ "/Users/dev/Desktop/"
+ "/Users/dev/Sites/newsite/"
+ "/Users/dev/Sites/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "sample.py"
+ "ido.last"
+ "testsite.html"
+ "testsite.css"
+ "testsite.js"
+ "testsite"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/dev/.emacs.d/" (22620 14277 0 0) "init.el" "auto-save-list/" ".DS_Store" "../" "./")
+
+ ("/Users/dev/" (22620 13987 0 0) "testdisk.log" "Sites/" "PycharmProjects/" "Public/" "Pictures/" "npm-debug.log" "node_modules/" "Music/" "Movies/" "Library/" "get-pip.py" "Downloads/" "Documents/" "distribute_setup.py" "Desktop/" "Applications/" ".zshrc.pre-oh-my-zsh" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Dev’s MacBook Pro-5.0.8" ".virtualenvs/" ".Trash/" ".subversion/" ".rnd" ".oh-my-zsh/" ".npm/" ".matplotlib/" ".local/" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".config/" ".CFUserTextEncoding" ".bundle/" ".bash_sessions/" ".bash_history" "../" "./")
+
+ ("/Users/dev/Desktop/" (22620 8603 0 0) "TutsPlus Introduction to Git and GitHub.iso" "TutsPlus - Git Essentials.iso" "Thumbs.db" "Swedish/" "sample.py" "refcard.pdf" "Mywebdesign.sketch" "emacs_backup.txt" "Dribbble.png" "Ch01/" "CBT Nuggets - Python Programming/" "CBT Nuggets - Google Cloud Platform Fundamentals/" "A.tutsplus.com - Venture into Emacs ® vampiri6ka/" ".localized" ".DS_Store" "$RECYCLE.BIN/" "#sample.py#" "../" "./")
+
+ ("/Users/dev/Sites/" (22613 51036 0 0) "lyndasite/" "jekyllsite/" "djangosite/" "1stnode/" ".DS_Store" "../" "./")
+
+ ("/Users/dev/Sites/newsite/" (22613 46868 0 0) "testsite.html" "testsite.css" ".DS_Store" ".#testsite.html" ".#testsite" "#testsite.js#" "#testsite.html#" "#testsite#" "../" "./")
+
+ ("/Users/dev/Sites/1stnode/" (22601 57701 0 0) "views/" "routes/" "public/" "package.json" "node_modules/" "bin/" "app.js" ".idea/" "../" "./")
+
+ ("/Applications/Adobe Acrobat XI Pro/Acrobat Distiller.app/" (22612 22786 0 0) "Contents/" "../" "./")
+
+ ("/Applications/Adobe Acrobat XI Pro/" (22612 22784 0 0) "Icon
+" "FormsCentral For Acrobat.app/" "Adobe Acrobat Pro.app/" "Acrobat Uninstaller" "Acrobat Distiller.app/" "../" "./")
+
+ ("/Applications/" (22612 22783 0 0) "WebStorm.app/" "VMware Fusion.app/" "VLC.app/" "Utilities/" "Transmission.app/" "Time Machine.app/" "TextEdit.app/" "Texpad.app/" "TeX/" "System Preferences.app/" "Stickies.app/" "Sketch.app/" "Scrivener.app/" "Safari.app/" "RubyMine.app/" "Reminders.app/" "QuickTime Player.app/" "PyCharm.app/" "PyCharm Edu.app/" "Preview.app/" "PhpStorm.app/" "Photos.app/" "Photo Booth.app/" "Notes.app/" "NameChanger.app/" "Mission Control.app/" "Messages.app/" "Megapack for iWork 2015.app/" "Mavis Beacon Teaches Typing.app/" "Maps.app/" "Mail.app/" "Launchpad.app/" "LaunchBar.app/" "Karabiner.app/" "iTunes.app/" "IntelliJ IDEA.app/" "Image Capture.app/" "iBooks.app/" "Google Chrome.app/" "Game Center.app/" "Font Book.app/" "FaceTime.app/" "Emacs.app/" "DVD Player.app/" "Dictionary.app/" "DataGrip.app/" "Dashboard.app/" "Contacts.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "BetterTouchTool.app/" "Axure RP 8.app/" "Automator.app/" "App Store.app/" "Android File Transfer.app/" "Adobe Application Manager/" "Adobe Acrobat XI Pro/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/" (22587 6437 0 0) "Shared/" "dev/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
